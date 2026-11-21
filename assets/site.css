@@ -1,0 +1,7 @@
+body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;margin:0;color:#0f172a;background:#fff;line-height:1.6}
+.wrap{max-width:46rem;margin:0 auto;padding:0 1rem}.skip{position:absolute;left:-999px}
+header.site,footer.site{border-bottom:1px solid #e2e8f0;padding:.8rem 0}footer.site{border-top:1px solid #e2e8f0;border-bottom:0;margin-top:2rem;color:#64748b;font-size:.9rem}
+header.site .wrap,footer.site .wrap{display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap}
+.brand{display:inline-flex;align-items:center;gap:.5rem;font-weight:700;color:#0f172a;text-decoration:none}nav a{margin-left:1rem;color:#1e40af}
+.product-head{display:flex;gap:1rem;align-items:center;margin-top:2rem}.product-head img{border-radius:14px}.pill{background:#eef2ff;padding:.2rem .6rem;border-radius:99px;font-size:.85rem}
+.lead{font-size:1.15rem}a{color:#1e40af}.links a{margin-right:1rem}
